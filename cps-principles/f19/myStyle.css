@@ -1,0 +1,199 @@
+* {
+  box-sizing: border-box;
+}
+
+body 
+{
+     /*font-family: "Lato", sans-serif;*/	
+     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+     font-size: 2vw
+     line-height: 125%;
+     color: black;
+     background-color:#FFFFFF;
+     margin-left : 0px;
+     margin-right : 0px;
+     padding : 0px;
+  }
+  
+.header {
+  background-color: #f0f0f0;
+  text-align: middle;
+  padding: 2px 5px 2px 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  margin-bottom: .6vw;
+}
+
+h1 {
+  font-size: 3.5vw;
+  margin: 1.5vw 0 1vw 0;
+}
+
+h2 {
+  font-size: 2vw;
+  margin: 1vw 0 1.5vw 0;  
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin: 100px
+  margin-top: 10px;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 30px;
+  font-size: 1.5vw;
+  line-height: 135%
+}
+
+li {
+	margin: 10px;
+	margin-left: 3px;
+}
+
+p {
+	font-size:	1.5vw;
+}
+p.notop {
+	margin-top: 0;
+}
+p.nobot {
+	margin-bottom: 0;
+}
+
+  
+/* Create three equal columns that floats next to each other */
+.column-left {
+  float: left;
+  width: 16%;
+  padding: 10px 5px 0 0px;
+}
+
+.column-right {
+  float: left;
+  width: 16%;
+  padding: 10px 0px 0 5px;
+}
+.column {
+  float: left;
+  width: 68%;
+  padding: 10px 10px;
+  background: #FFFFFF
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 10px;
+  text-align: left;
+  background-color: #f1f1f1;
+  margin-bottom: 1.2vw;
+}
+
+.main {
+  margin-left: 140px; /* Same as the width of the sidenav */
+  font-size: 22px; /* Increased text to enable scrolling */
+  line-height: 125%;
+  padding: 0px 10px;
+}
+
+
+div.box
+{
+    width: auto;
+    padding: 0px;
+    border: 0px solid gray;
+    margin: 0px;
+	font-size: 20px;
+    line-height: 125%;
+}
+
+.sidenav {
+  height: 100%;
+  width: 11%;
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  left: 0px;
+  background-color: #D4E2F5;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-top: 200px;
+  background-image: linear-gradient(to bottom right, #D4E2F5, #F5F8FD);
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 24px;
+  color: black;
+  display: block;
+}
+
+.sidenav a:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+
+
+table td
+{
+	vertical-align:top;
+}
+
+
+/*****  Vertical Menu ****/
+.vertical-menu {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8vw;
+  overflow-y: auto;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/*******************************?
+
+
+
