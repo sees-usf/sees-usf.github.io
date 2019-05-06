@@ -7,3 +7,8 @@
 * [*Principles of Cyber-Physical Systems*](https://engineering.usu.edu/ece/news/main-feed/2017/principles-cyber-physical-systems.pdf), Utah State U
 * [*Embedded System Design: Modeling, Analysis, and Synthesis*](https://bcourses.berkeley.edu/courses/1297954), UC Berkely
 * [*EECS 149 Introduction to Embedded Systems*](https://ptolemy.berkeley.edu/projects/chess/eecs149/index.html), UC Berkely
+
+# Reading list in CPS
+
+* Ying Tan, Steve Goddard, and Lance C. Pérez. 2008. *A prototype architecture for cyber-physical systems*, SIGBED Rev. 5, 1, Article 26 (January 2008)
+
