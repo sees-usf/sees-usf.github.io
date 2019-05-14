@@ -10,5 +10,9 @@
 
 # Reading list in CPS
 
-* Ying Tan, Steve Goddard, and Lance C. Pérez. 2008. *A prototype architecture for cyber-physical systems*, SIGBED Rev. 5, 1, Article 26 (January 2008)
+* *A Model-Based Design Methodology for Cyber-Physical Systems*, Jeff C. Jensen, Danica H. Chang, Edward A. Lee, 2011
+
+* *A prototype architecture for cyber-physical systems*, Ying Tan, Steve Goddard, and Lance C. Pérez, SIGBED Rev. 5, 1, Article 26 (January 2008)
+
+
 
