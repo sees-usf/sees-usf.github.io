@@ -67,18 +67,18 @@ p.nobot {
 .column-left {
   float: left;
   width: 16%;
-  padding: 0.1vw 0.1vw 0.1vw 0;
+  padding: 0.1vw 0.2vw 0.1vw 0;
 }
 
 .column-right {
   float: left;
   width: 16%;
-  padding: 0.1vw 0 0.1vw 0.1vw;
+  padding: 0.1vw 0 0.1vw 0.2vw;
 }
 .column {
   float: left;
   width: 68%;
-  padding: 0.1vw 0.3vw 0.1vw 0.3vw;
+  padding: 0.1vw 0.2vw 0.1vw 0.2vw;
   background: #FFFFFF
 }
 
