@@ -7,6 +7,7 @@
 * [*Principles of Cyber-Physical Systems*](https://engineering.usu.edu/ece/news/main-feed/2017/principles-cyber-physical-systems.pdf), Utah State U
 * [*Embedded System Design: Modeling, Analysis, and Synthesis*](https://bcourses.berkeley.edu/courses/1297954), UC Berkely
 * [*EECS 149 Introduction to Embedded Systems*](https://ptolemy.berkeley.edu/projects/chess/eecs149/index.html), UC Berkely
+* [*CIS 541 Embedded and Cyber Physical Systems*](https://www.seas.upenn.edu/~lee/10cis541/), U Penn
 
 # Reading list in CPS
 
