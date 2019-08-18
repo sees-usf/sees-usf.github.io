@@ -8,7 +8,7 @@
 * [*Embedded System Design: Modeling, Analysis, and Synthesis*](https://bcourses.berkeley.edu/courses/1297954), UC Berkely
 * [*EECS 149 Introduction to Embedded Systems*](https://ptolemy.berkeley.edu/projects/chess/eecs149/index.html), UC Berkely
 * [*CIS 541 Embedded and Cyber Physical Systems*](https://www.seas.upenn.edu/~lee/10cis541/), U Penn
-* [*        Embedded and Cyber Physical Systems*](https://ls12-www.cs.tu-dortmund.de/daes/de/daes/mitarbeiter/prof-dr-peter-marwedel/embedded-system-text-book/slides/slides-2013.html), U of Dortmund
+* [         *Embedded and Cyber Physical Systems*](https://ls12-www.cs.tu-dortmund.de/daes/de/daes/mitarbeiter/prof-dr-peter-marwedel/embedded-system-text-book/slides/slides-2013.html), U of Dortmund
 
 # Reading list in CPS
 
