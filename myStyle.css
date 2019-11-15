@@ -17,7 +17,7 @@ body
   }
   
 .header {
-  background-color: #f0f0f0;
+  background-color: #fAfAfA;
   text-align: middle;
   padding: 2px 5px 2px 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
@@ -95,7 +95,7 @@ p.nobot {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 10px;
   text-align: left;
-  background-color: #f1f1f1;
+  background-color: #fCfCfC;
   margin-bottom: 1.2vw;
 }
 
