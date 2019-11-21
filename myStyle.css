@@ -47,6 +47,19 @@ ul {
   line-height: 100%
 }
 
+ol {
+  display: block;
+  list-style-type: disc;
+  margin: 100px
+  margin-top: 10px;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 30px;
+  font-size: 1.5vw;
+  line-height: 100%
+}
+
 li {
 	margin: 10px;
 	margin-left: 3px;
