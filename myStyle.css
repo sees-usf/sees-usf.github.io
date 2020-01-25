@@ -8,7 +8,7 @@ body
      font-family: Arial, Helvetica, sans-serif;
      font-size: 18px;
      font-size: 2vw
-     line-height: 150%;
+     line-height: 1.6;
      color: black;
      background-color:#FFFFFF;
      margin-left : 0px;
@@ -44,7 +44,7 @@ ul {
   margin-right: 0;
   padding-left: 30px;
   font-size: 1.5vw;
-  line-height: 100%
+  line-height: 1.6
 }
 
 ol {
@@ -57,7 +57,7 @@ ol {
   margin-right: 0;
   padding-left: 30px;
   font-size: 1.5vw;
-  line-height: 100%
+  line-height: 1.6
 }
 
 li {
@@ -67,12 +67,17 @@ li {
 
 p {
 	font-size:	1.5vw;
+	line-height:	1.6
 }
 p.notop {
 	margin-top: 0;
+	line-height:	1.6
+
 }
 p.nobot {
 	margin-bottom: 0;
+	line-height:	1.6
+
 }
 
   
@@ -127,7 +132,7 @@ div.box
     border: 0px solid gray;
     margin: 0px;
 	font-size: 20px;
-    line-height: 125%;
+    line-height: 1.6;
 }
 
 .sidenav {
