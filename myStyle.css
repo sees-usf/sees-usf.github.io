@@ -66,17 +66,17 @@ li {
 }
 
 p {
-	font-size:	1.5vw;
-	line-height:	1.6
+	font-size:	1.3vw;
+	line-height:	1.5
 }
 p.notop {
 	margin-top: 0;
-	line-height:	1.6
+	line-height:	1.5
 
 }
 p.nobot {
 	margin-bottom: 0;
-	line-height:	1.6
+	line-height:	1.5
 
 }
 
