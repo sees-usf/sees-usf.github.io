@@ -18,7 +18,8 @@ Other research interests include
   - Computer system verification and validation
   - Verification-aware design methodology
   - Formal methods and model checking</li>
-            
+
+Refer to our [research](https://sees-usf.github.io/research) page for on-going and past projects.
 
 **To interested graduate students:** We welcome highly motivated students who are committed to excellence in both academics and research to join our lab. If your interests align with our research, we encourage you to reach out and share your thoughts. When contacting us, please include your research interests and a brief explanation of why you’re interested in joining the lab.   
   - *Applicants with prior independent research experience or a related M.S. degree will be given priority consideration.*
