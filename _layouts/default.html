@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.jade.min.css"
+    />
+    <style>
+      :root {
+        --pico-font-family: Verdana, sans-serif;
+      }
+    </style>
+    <title>SEES</title>
+  </head>
+  <body>
+    <header class="container">
+      <nav>
+        <ul>
+          <li>
+            <img
+              src="https://sees-usf.github.io/images/logo-1_17_25.png"
+              alt="SEES Lab Logo"
+              width="100"
+            />
+          </li>
+        </ul>
+        <ul>
+          <li><a href="./">Home</a></li>
+          <li><a href="./research">Research</a></li>
+          <li><a href="./teaching">Teaching</a></li>
+          <li><a href="./people">People</a></li>
+          <li><a href="./contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="container">{{ content }}</main>
+    <footer class="container">
+      <sub>Written by Ghali Omar Boutaib (<code>ghaliomar@usf.edu</code>)</sub>
+      <sub
+        >Made with <a href="https://jekyllrb.com/">Jekyll</a> and
+        <a href="https://picocss.com/">Pico CSS.</a></sub
+      >
+    </footer>
+  </body>
+</html>
