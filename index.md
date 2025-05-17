@@ -25,5 +25,5 @@ Refer to our [research](https://sees-usf.github.io/research) page for on-going a
   - *Applicants with prior independent research experience or a related M.S. degree will be given priority consideration.*
 
 **To undergraduate students:** Undergraduate students with excellent academic records who are *interested in pursuing graduate studies* are  encouraged to contact us about available research opportunities.  
-  - *When you contact us, please attach your CV and current transcripts.*
+  - When you contact us, please attach your current CV and transcripts.
 
