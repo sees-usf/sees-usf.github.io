@@ -2,10 +2,11 @@
 layout: default
 ---
 # Research
-The list below shows the major on-going research activities currently being performed in our lab. More details about the project overviews will come soon...
+Below is a list of our lab’s major ongoing research activities. Please check back regularly for updates.
 
-### Autonomous security monitoring and enforcement
-In this research, we consider security of system-on-chip designs where the trust of the consisting blocks cannot be establised. The objective is to design HW/SW agents embedded in such designs that can detect and mitigate security attacks autonomously or with minimal human intervention.
+### GenAI for hardware design
+In this research, we explore the use of generative AI, particularly large language models (LLMs), to assist in various aspects of hardware design—such as generating RTL code, testbenches, and assertions from natural language descriptions. Our ultimate goal is to enable fully autonomous hardware design, where <em>systems</em> that meet diverse requirements—including functionality, performance, power/energy efficiency, and security—can be automatically synthesized from natural language specifications.  
+Some preliminary results can be found in our [GitHub repository](forthcoming).
 
 ### Specification mining for system-on-chip design validation
 Comprehensive and well-defined specifications are necessary to perform rigorous and thorough validation of system-on-chip~(SoC) designs. However, in practice such specifications are usually not available, often ambiguous, incomplete, or even contain errors. Moreover, as a SoC design gradually progresses across design stages, the connection between the original specifications and the design implementation may become imprecise and disjoint. The specification problems may lead to potential misunder-standings of the design behavior, introduce unintentional behavior into the design, and hinder effective and efficient validation process. This project addresses that problem by developing automated methods to extract patterns from SoC execution traces using data mining and machine learning techniques. The extracted patterns are served as specification which can be used in SoC validation and debug.
