@@ -1,4 +1,15 @@
 <article>
-  <img src="{{ include.img }}" alt="{{ include.alt }}" />
+  <img
+    src="{{ include.img }}"
+    alt="{{ include.alt }}"
+    style="
+      max-width: 250px;
+      max-height: 250px;
+      min-width: 250px;
+      height: auto;
+      width: 100%;
+      object-fit: contain;
+    "
+  />
   <footer>{{ include.alt }}</footer>
 </article>
