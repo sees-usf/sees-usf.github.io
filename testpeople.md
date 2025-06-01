@@ -11,7 +11,10 @@ layout: default
 {% include headshot.html img="/headshots/boutaib.jpeg" name="Ghali Omar Boutaib" position="Undergraduate Student" scholar="https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en" orcid="https://orcid.org/0000-0001-6470-9965" github="https://github.com/ghaliomar" linkedin="https://www.linkedin.com/in/ghaliomar/" %}
 
 {% include headshot.html img="/headshots/person.jpeg" name="Mohammad Ahmadi" position="Ph.D. Student" linkedin="https://www.linkedin.com/in/mohammad-ahmadi-ba27a91a3/" %}
+</div>
 
+
+<div class="grid">
 {% include headshot.html img="/headshots/person.jpeg" name="Jamie Rafael Imperial" position="Undergraduate Honors Thesis" %}
 {% include headshot.html img="/headshots/person.jpeg" name="Trudy Kwok" position="Undergraduate Student" %}
 {% include headshot.html img="/headshots/person.jpeg" name="Niharika Adari" position="Undergraduate Student" %}
