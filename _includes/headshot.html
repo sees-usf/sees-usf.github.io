@@ -9,27 +9,29 @@
 -->
 
 <div class="profile-card">
-  <img src="profile.jpg" alt="{{ include.name }}" class="profile-image" />
+  <img src="{{ include.img }}" alt="{{ include.name }}" class="profile-image" />
   <h2 class="name">{{ include.name }}</h2>
   <p class="title">{{ include.position }}</p>
   <div class="icons">
     {% if include.academia %}
     <a href="{{ include.academia }}" title="Academia"
-      ><i class="fas fa-graduation-cap"></i
+      ><i class="fa-solid fa-graduation-cap"></i
     ></a>
     {% endif %} {% if include.scholar %}
     <a href="{{ include.scholar }}" title="Google Scholar"
-      ><i class="fab fa-google"></i
+      ><i class="fa-brands fa-google-scholar"></i
     ></a>
     {% endif %} {% if include.orcid %}
-    <a href="{{ include.orcid }}" title="ORCID"><i class="fab fa-orcid"></i></a>
+    <a href="{{ include.orcid }}" title="ORCID"
+      ><i class="fa-brands fa-orcid"></i
+    ></a>
     {% endif %} {% if include.github %}
     <a href="{{ include.github }}" title="GitHub"
-      ><i class="fab fa-github"></i
+      ><i class="fa-brands fa-github"></i
     ></a>
     {% endif %} {% if include.linkedin %}
     <a href="{{ include.linkedin }}" title="LinkedIn"
-      ><i class="fab fa-linkedin"></i
+      ><i class="fa-brands fa-linkedin"></i
     ></a>
     {% endif %}
   </div>
