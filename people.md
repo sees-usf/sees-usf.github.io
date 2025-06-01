@@ -2,17 +2,18 @@
 layout: default
 ---
 # People
-### Faculty Advisor
-- Hao Zheng, PhD, [bio](http://www.cse.usf.edu/~haozheng), [Linkedin](https://www.linkedin.com/in/hao-zheng-37267220/)
-
+### Faculty
+{% include headshot.html img="/headshots/zheng.jpeg" name="Hao Zheng" position="Faculty Advisor" academia="https://cse.usf.edu/~haozheng/" scholar="https://scholar.google.com/citations?user=W1V0wXcAAAAJ&hl=en&oi=ao" orcid="https://orcid.org/0000-0002-8627-0591" github="https://github.com/sees-usf" linkedin="https://www.linkedin.com/in/hao-zheng-37267220/" %}
 ### Current Students
-- John Maurer, PhD, 2023
-- Bardia Nadimi, PhD, 2022 [Google Scholar](https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en)
-- Mohammad Ahmadi, PhD, 2019 [LinkedIn](https://www.linkedin.com/in/mohammad-ahmadi-ba27a91a3/)
-- Jamie Rafael Imperial, Undergraduate Honor Thesis, Summer/Fall 2024
-- Ghali Omar Boutaib, REU, 2024 [LinkedIn](https://www.linkedin.com/in/ghaliomar/), [Google Scholar](https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en)
-- Trudy Kwok, REU, Spring 2024
-- Niharika Adari, REU, Spring 2024
+<div class="grid">
+{% include headshot.html img="/headshots/person.jpeg" name="Mohammad Ahmadi" position="Ph.D. Student" linkedin="https://www.linkedin.com/in/mohammad-ahmadi-ba27a91a3/" %}
+
+{% include headshot.html img="/headshots/nadimi.jpeg" name="Bardia Nadimi" position="Ph.D. Student" scholar="https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en" linkedin="https://www.linkedin.com/in/bardia-nadimi/" %}
+
+{% include headshot.html img="/headshots/person.jpeg" name="Jamie Rafael Imperial" position="M.S. Student" %}
+
+{% include headshot.html img="/headshots/boutaib.jpeg" name="Ghali Omar Boutaib" position="Undergraduate Student" scholar="https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en" orcid="https://orcid.org/0000-0001-6470-9965" github="https://github.com/ghaliomar" linkedin="https://www.linkedin.com/in/ghaliomar/" %}
+</div>
 
 ### Graduated Students
 - Md Rubel Ahmed, PhD, 2018--2023 [webpage](https://rubelahmed57.github.io/)
@@ -27,6 +28,8 @@ layout: default
 - Jared Ahrens, MS, 2006
 
 ### Previous REU Students
+- Trudy Kwok, REU, Spring 2024
+- Niharika Adari, REU, Spring 2024
 - Elizbeth Sotomayo, REU, Summer/Fall 2023, Spring 2024
 - An Pham, REU, Summer/Fall 2023 Linkedin
 - Sulekha Mukunda, REU, Spring 2023 Linkedin
