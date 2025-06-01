@@ -1,15 +1,36 @@
-<article>
-  <img
-    src="{{ include.img }}"
-    alt="{{ include.alt }}"
-    style="
-      max-width: 250px;
-      max-height: 250px;
-      min-width: 250px;
-      height: auto;
-      width: 100%;
-      object-fit: contain;
-    "
-  />
-  <footer>{{ include.alt }}</footer>
-</article>
+<!-- Summary of parameters: 
+  - name: Name of the person
+  - position: Position or title of the person
+  - academia: URL to University profile (optional)
+  - scholar: URL to Google Scholar profile (optional)
+  - orcid: URL to ORCID profile (optional)
+  - github: URL to GitHub profile (optional)
+  - linkedin: URL to LinkedIn profile (optional)
+-->
+
+<div class="profile-card">
+  <img src="profile.jpg" alt="{{ include.name }}" class="profile-image" />
+  <h2 class="name">{{ include.name }}</h2>
+  <p class="title">{{ include.position }}</p>
+  <div class="icons">
+    {% if include.academia %}
+    <a href="{{ include.academia }}" title="Academia"
+      ><i class="fas fa-graduation-cap"></i
+    ></a>
+    {% endif %} {% if include.scholar %}
+    <a href="{{ include.scholar }}" title="Google Scholar"
+      ><i class="fab fa-google"></i
+    ></a>
+    {% endif %} {% if include.orcid %}
+    <a href="{{ include.orcid }}" title="ORCID"><i class="fab fa-orcid"></i></a>
+    {% endif %} {% if include.github %}
+    <a href="{{ include.github }}" title="GitHub"
+      ><i class="fab fa-github"></i
+    ></a>
+    {% endif %} {% if include.linkedin %}
+    <a href="{{ include.linkedin }}" title="LinkedIn"
+      ><i class="fab fa-linkedin"></i
+    ></a>
+    {% endif %}
+  </div>
+</div>
