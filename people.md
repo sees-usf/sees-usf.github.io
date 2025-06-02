@@ -16,7 +16,6 @@ layout: default
 </div>
 
 ### Graduated Students
-- {% include headshot.html img="/headshots/rubel.jpeg" name="Md Rubel Ahmed" position="Ph.D." github="https://rubelahmed57.github.io/" linkedin="https://www.linkedin.com/in/mohammad-ahmadi-ba27a91a3/" %}
 - Md Rubel Ahmed, PhD, 2018--2023 [webpage](https://rubelahmed57.github.io/)
 - Hernan Palombo, PhD, 2015--2020 [webpage](https://www.linkedin.com/in/hernanpalombo)
 - Yuting Cao, PhD, 2019, [webpage](https://www.linkedin.com/in/caoyuting/?ts=1576368962044&trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
