@@ -10,7 +10,7 @@ layout: default
 
 {% include headshot.html img="/headshots/nadimi.jpeg" name="Bardia Nadimi" position="Ph.D. Student" scholar="https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en" linkedin="https://www.linkedin.com/in/bardia-nadimi/" %}
 
-{% include headshot.html img="/headshots/person.jpeg" name="Jamie Rafael Imperial" position="M.S. Student" %}
+{% include headshot.html img="/headshots/imperial.jpeg" name="Jamie Rafael Imperial" position="M.S. Student" linkedin="https://www.linkedin.com/in/jaimeimperial/" github="https://github.com/jaimeimperial" %}
 
 {% include headshot.html img="/headshots/boutaib.jpeg" name="Ghali Omar Boutaib" position="Undergraduate Student" scholar="https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en" orcid="https://orcid.org/0000-0001-6470-9965" github="https://github.com/ghaliomar" linkedin="https://www.linkedin.com/in/ghaliomar/" %}
 </div>
