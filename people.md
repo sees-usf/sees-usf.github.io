@@ -28,8 +28,8 @@ layout: default
 - Jared Ahrens, MS, 2006
 
 ### Previous REU Students
-- Trudy Kwok, REU, Spring 2024
-- Niharika Adari, REU, Spring 2024
+- Trudy Kwok, REU, Spring/Summer 2024
+- Niharika Adari, REU, Spring/Summer 2024
 - Elizbeth Sotomayo, REU, Summer/Fall 2023, Spring 2024
 - An Pham, REU, Summer/Fall 2023 Linkedin
 - Sulekha Mukunda, REU, Spring 2023 Linkedin
