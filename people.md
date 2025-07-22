@@ -6,8 +6,6 @@ layout: default
 {% include headshot.html img="/headshots/zheng.jpeg" name="Hao Zheng" position="Faculty Advisor" academia="https://cse.usf.edu/~haozheng/" scholar="https://scholar.google.com/citations?user=W1V0wXcAAAAJ&hl=en&oi=ao" orcid="https://orcid.org/0000-0002-8627-0591" github="https://github.com/sees-usf" linkedin="https://www.linkedin.com/in/hao-zheng-37267220/" %}
 ### Current Students
 <div class="grid">
-{% include headshot.html img="/headshots/person.jpeg" name="Mohammad Ahmadi" position="Ph.D. Student" linkedin="https://www.linkedin.com/in/mohammad-ahmadi-ba27a91a3/" %}
-
 {% include headshot.html img="/headshots/nadimi.jpeg" name="Bardia Nadimi" position="Ph.D. Student" scholar="https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en" linkedin="https://www.linkedin.com/in/bardia-nadimi/" %}
 
 {% include headshot.html img="/headshots/imperial.jpeg" name="Jaime Rafael Imperial" position="M.S. Student" linkedin="https://www.linkedin.com/in/jaimeimperial/" github="https://github.com/jaimeimperial" %}
@@ -16,6 +14,7 @@ layout: default
 </div>
 
 ### Graduated Students
+- Mohammad Ahmadi, PhD, -- 2025 [LinkedIn](https://www.linkedin.com/in/mohammad-ahmadi-ba27a91a3/)
 - Md Rubel Ahmed, PhD, 2018--2023 [webpage](https://rubelahmed57.github.io/)
 - Hernan Palombo, PhD, 2015--2020 [webpage](https://www.linkedin.com/in/hernanpalombo)
 - Yuting Cao, PhD, 2019, [webpage](https://www.linkedin.com/in/caoyuting/?ts=1576368962044&trk=profile_share_wechat&from=singlemessage&isappinstalled=0)
