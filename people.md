@@ -28,4 +28,4 @@ layout: default
 
 ### Previous REU Students
 {% for person in site.data.people.previous_reu %}
-- {{ person.name }}, {{ person.position }}, {{ person.timeline }}{% endfor %}
+- {{ person.name }}, {{ person.program }}, {{ person.timeline }}{% endfor %}
