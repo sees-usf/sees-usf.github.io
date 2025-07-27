@@ -1,0 +1,111 @@
+{
+  "faculty": [
+    {
+      "name": "Hao Zheng",
+      "position": "Faculty Advisor",
+      "academia": "https://cse.usf.edu/~haozheng/",
+      "scholar": "https://scholar.google.com/citations?user=W1V0wXcAAAAJ&hl=en&oi=ao",
+      "orcid": "https://orcid.org/0000-0002-8627-0591",
+      "github": "https://github.com/sees-usf",
+      "linkedin": "https://www.linkedin.com/in/hao-zheng-37267220/",
+      "img": "/headshots/zheng.jpeg"
+    }
+  ],
+  "students": [
+    {
+      "name": "Bardia Nadimi",
+      "position": "Ph.D. Student",
+      "academia": null,
+      "scholar": "https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en",
+      "orcid": null,
+      "github": null,
+      "linkedin": "https://www.linkedin.com/in/bardia-nadimi/",
+      "img": "/headshots/nadimi.jpeg"
+    },
+    {
+      "name": "Tasnim Tabassum",
+      "position": "Ph.D. Student",
+      "academia": null,
+      "scholar": null,
+      "orcid": null,
+      "github": "https://github.com/R-aurnila",
+      "linkedin": "https://www.linkedin.com/in/tasnim-tabassum-066024179/",
+      "img": "/headshots/person.jpeg"
+    },
+    {
+      "name": "Jaime Rafael Imperial",
+      "position": "M.S. Student",
+      "academia": null,
+      "scholar": null,
+      "orcid": null,
+      "github": "https://github.com/jaimeimperial",
+      "linkedin": "https://www.linkedin.com/in/jaimeimperial/",
+      "img": "/headshots/imperial.jpeg"
+    },
+    {
+      "name": "Ghali Omar Boutaib",
+      "position": "Undergraduate",
+      "academia": null,
+      "scholar": "https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en",
+      "orcid": "https://orcid.org/0000-0001-6470-9965",
+      "github": "https://github.com/ghaliomar",
+      "linkedin": "https://www.linkedin.com/in/ghaliomar/",
+      "img": "/headshots/boutaib.jpeg"
+    }
+  ],
+  "previous_reu": [
+    {
+      "name": "Trudy Kwok",
+      "program": "REU",
+      "timeline": "Spring/Summer 2024"
+    },
+    {
+      "name": "Niharika Adari",
+      "program": "REU",
+      "timeline": "Spring/Summer 2024"
+    },
+    {
+      "name": "Elizbeth Sotomayo",
+      "program": "REU",
+      "timeline": "Summer/Fall 2023"
+    },
+    { "name": "An Pham", "program": "REU", "timeline": "Summer/Fall 2023" },
+    { "name": "Sulekha Mukunda", "program": "REU", "timeline": "Spring 2023" },
+    {
+      "name": "Adam Mansour",
+      "program": "REU",
+      "timeline": "Summer/Fall 2022"
+    },
+    {
+      "name": "Zizhan Zhou",
+      "program": "REU",
+      "timeline": "Spring/Summer 2022"
+    },
+    { "name": "Ameena Mohammed", "program": "REU", "timeline": "Summer 2022" },
+    { "name": "Hetvi Shah", "program": "REU", "timeline": "Summer 2022" },
+    {
+      "name": "Luke Moreale",
+      "program": "REU",
+      "timeline": "Simmer/Fall 2021"
+    },
+    {
+      "name": "Juan Melo Vasquez",
+      "program": "REU",
+      "timeline": "Summer/Fall 2021"
+    },
+    {
+      "name": "Laureano Griffin",
+      "program": "REU",
+      "timeline": "Summer/Fall 2020"
+    },
+    {
+      "name": "Laith Abdel-Rahman",
+      "program": "REU",
+      "timeline": "Summer/Fall 2020"
+    },
+    { "name": "Nisa Phelps", "program": "REU", "timeline": "Summer/Fall 2020" },
+    { "name": "Julian De Joseph", "program": "REU", "timeline": "Spring 2020" },
+    { "name": "Jana Giovanni", "program": "REU", "timeline": "Fall 2019" },
+    { "name": "Emmanual Rodriguez", "program": "REU", "timeline": "2012-2013" }
+  ]
+}
