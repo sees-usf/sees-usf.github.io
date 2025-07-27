@@ -5,6 +5,10 @@ layout: default
 ### Faculty
 {% include headshot.html img="/headshots/zheng.jpeg" name="Hao Zheng" position="Faculty Advisor" academia="https://cse.usf.edu/~haozheng/" scholar="https://scholar.google.com/citations?user=W1V0wXcAAAAJ&hl=en&oi=ao" orcid="https://orcid.org/0000-0002-8627-0591" github="https://github.com/sees-usf" linkedin="https://www.linkedin.com/in/hao-zheng-37267220/" %}
 ### Current Students
+{% for person in site.data.people.students %}
+    {% include headshot.html img={{ person.img }} name={{ person.name }} position={{ person.position }} academia={{ person.academia }} scholar={{ person.scholar }} orcid={{ person.orcid }} github={{ person.github }} linkedin={{ person.linkedin }} %}
+{% endfor %}
+
 <div class="grid">
 {% include headshot.html img="/headshots/nadimi.jpeg" name="Bardia Nadimi" position="Ph.D. Student" scholar="https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en" linkedin="https://www.linkedin.com/in/bardia-nadimi/" %}
 
