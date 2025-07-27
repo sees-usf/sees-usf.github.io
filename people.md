@@ -4,12 +4,12 @@ layout: default
 # People
 ### Faculty
 {% for person in site.data.people.faculty %}
-    {% include headshot.html img=person.img name=person.name position=person.position academia=person.academia scholar=person.scholar orcid=person.orcid github=person.github linkedin=person.linkedin %}
+{% include headshot.html img=person.img name=person.name position=person.position academia=person.academia scholar=person.scholar orcid=person.orcid github=person.github linkedin=person.linkedin %}
 {% endfor %}
 ### Current Students
 <div class="grid">
 {% for person in site.data.people.students %}
-    {% include headshot.html img=person.img name=person.name position=person.position academia=person.academia scholar=person.scholar orcid=person.orcid github=person.github linkedin=person.linkedin %}
+{% include headshot.html img=person.img name=person.name position=person.position academia=person.academia scholar=person.scholar orcid=person.orcid github=person.github linkedin=person.linkedin %}
 {% endfor %}
 </div>
 
@@ -28,5 +28,4 @@ layout: default
 
 ### Previous REU Students
 {% for person in site.data.people.previous_reu %}
-- {{ person.name }}, {{ person.position }}, {{ person.timeline }}
-{% endfor %}
+- {{ person.name }}, {{ person.position }}, {{ person.timeline }}{% endfor %}
