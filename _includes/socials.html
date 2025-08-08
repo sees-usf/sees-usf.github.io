@@ -1,0 +1,21 @@
+{% if include.academia %}
+<a href="{{ include.academia }}" title="Academia"
+  ><i class="fa-solid fa-graduation-cap"></i
+></a>
+{% endif %} {% if include.scholar %}
+<a href="{{ include.scholar }}" title="Google Scholar"
+  ><i class="fa-brands fa-google-scholar"></i
+></a>
+{% endif %} {% if include.orcid %}
+<a href="{{ include.orcid }}" title="ORCID"
+  ><i class="fa-brands fa-orcid"></i
+></a>
+{% endif %} {% if include.github %}
+<a href="{{ include.github }}" title="GitHub"
+  ><i class="fa-brands fa-github"></i
+></a>
+{% endif %} {% if include.linkedin %}
+<a href="{{ include.linkedin }}" title="LinkedIn"
+  ><i class="fa-brands fa-linkedin"></i
+></a>
+{% endif %}

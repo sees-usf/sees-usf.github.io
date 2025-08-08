@@ -1,0 +1,76 @@
+{
+  "title": "People Schema",
+  "type": "object",
+  "properties": {
+    "$schema": { "type": "string" },
+    "faculty": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "position": { "type": "string" },
+          "img": { "type": "string" },
+          "linkedin": { "type": ["string", "null"], "format": "uri" },
+          "academia": { "type": ["string", "null"], "format": "uri" },
+          "scholar": { "type": ["string", "null"], "format": "uri" },
+          "orcid": { "type": ["string", "null"], "format": "uri" },
+          "github": { "type": ["string", "null"], "format": "uri" }
+        },
+        "required": ["name", "position", "img"],
+        "additionalProperties": false
+      }
+    },
+    "students": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "position": { "type": "string" },
+          "img": { "type": "string" },
+          "linkedin": { "type": ["string", "null"], "format": "uri" },
+          "academia": { "type": ["string", "null"], "format": "uri" },
+          "scholar": { "type": ["string", "null"], "format": "uri" },
+          "orcid": { "type": ["string", "null"], "format": "uri" },
+          "github": { "type": ["string", "null"], "format": "uri" }
+        },
+        "required": ["name", "position", "img"],
+        "additionalProperties": false
+      }
+    },
+    "graduated": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "program": { "type": "string" },
+          "timeline": { "type": "string" },
+          "linkedin": { "type": ["string", "null"], "format": "uri" },
+          "academia": { "type": ["string", "null"], "format": "uri" },
+          "scholar": { "type": ["string", "null"], "format": "uri" },
+          "orcid": { "type": ["string", "null"], "format": "uri" },
+          "github": { "type": ["string", "null"], "format": "uri" }
+        },
+        "required": ["name", "program", "timeline"],
+        "additionalProperties": false
+      }
+    },
+    "previous_reu": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "program": { "type": "string" },
+          "timeline": { "type": "string" }
+        },
+        "required": ["name", "program", "timeline"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["faculty", "students", "previous_reu", "graduated", "$schema"],
+  "additionalProperties": false
+}
