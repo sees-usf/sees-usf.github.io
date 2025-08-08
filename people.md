@@ -23,5 +23,10 @@ layout: default
 </ul>
 
 ### Previous REU Students
+<ul>
 {% for person in site.data.people.previous_reu %}
-- {{ person.name }}, {{ person.program }}, {{ person.timeline }}{% endfor %}
+<li> 
+{{ person.name }}, {{ person.program }}, {{ person.timeline }} {% include socials.html academia=person.academia scholar=person.scholar orcid=person.orcid github=person.github linkedin=person.linkedin %}
+</li>
+{% endfor %}
+</ul>

@@ -64,7 +64,12 @@
         "properties": {
           "name": { "type": "string" },
           "program": { "type": "string" },
-          "timeline": { "type": "string" }
+          "timeline": { "type": "string" },
+          "linkedin": { "type": ["string", "null"], "format": "uri" },
+          "academia": { "type": ["string", "null"], "format": "uri" },
+          "scholar": { "type": ["string", "null"], "format": "uri" },
+          "orcid": { "type": ["string", "null"], "format": "uri" },
+          "github": { "type": ["string", "null"], "format": "uri" }
         },
         "required": ["name", "program", "timeline"],
         "additionalProperties": false

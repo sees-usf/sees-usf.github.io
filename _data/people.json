@@ -70,24 +70,47 @@
       "program": "REU",
       "timeline": "Summer/Fall 2023"
     },
-    { "name": "An Pham", "program": "REU", "timeline": "Summer/Fall 2023" },
-    { "name": "Sulekha Mukunda", "program": "REU", "timeline": "Spring 2023" },
+    {
+      "name": "An Pham",
+      "program": "REU",
+      "timeline": "Summer/Fall 2023",
+      "linkedin": "https://www.linkedin.com/in/anhongpham/"
+    },
+    {
+      "name": "Sulekha Mukunda",
+      "program": "REU",
+      "timeline": "Spring 2023",
+      "linkedin": "https://www.linkedin.com/in/sulekha-mukunda-950514221"
+    },
     {
       "name": "Adam Mansour",
       "program": "REU",
-      "timeline": "Summer/Fall 2022"
+      "timeline": "Summer/Fall 2022",
+      "linkedin": "https://www.linkedin.com/in/adam-mansour-269287239/"
     },
     {
       "name": "Zizhan Zhou",
       "program": "REU",
-      "timeline": "Spring/Summer 2022"
+      "timeline": "Spring/Summer 2022",
+      "linkedin": "https://www.linkedin.com/in/zizhan-zhou-0004b7177/"
     },
-    { "name": "Ameena Mohammed", "program": "REU", "timeline": "Summer 2022" },
-    { "name": "Hetvi Shah", "program": "REU", "timeline": "Summer 2022" },
+    {
+      "name": "Ameena Mohammed",
+      "program": "REU",
+      "timeline": "Summer 2022",
+      "linkedin": "https://www.linkedin.com/in/ameenamohammed/"
+    },
+    {
+      "name": "Hetvi Shah",
+      "program": "REU",
+      "timeline": "Summer 2022",
+      "linkedin": "https://www.linkedin.com/in/hetvi-shah-242a3b220/"
+    },
     {
       "name": "Luke Moreale",
       "program": "REU",
-      "timeline": "Simmer/Fall 2021"
+      "timeline": "Simmer/Fall 2021",
+      "linkedin": "https://www.linkedin.com/in/luke-morreale-995b81216/"
     },
     {
       "name": "Juan Melo Vasquez",
@@ -102,9 +125,15 @@
     {
       "name": "Laith Abdel-Rahman",
       "program": "REU",
-      "timeline": "Summer/Fall 2020"
+      "timeline": "Summer/Fall 2020",
+      "linkedin": "https://www.linkedin.com/in/laith-abdel-63266b186/"
     },
-    { "name": "Nisa Phelps", "program": "REU", "timeline": "Summer/Fall 2020" },
+    {
+      "name": "Nisa Phelps",
+      "program": "REU",
+      "timeline": "Summer/Fall 2020",
+      "linkedin": "https://www.linkedin.com/in/nisa-phelps/"
+    },
     { "name": "Julian De Joseph", "program": "REU", "timeline": "Spring 2020" },
     { "name": "Jana Giovanni", "program": "REU", "timeline": "Fall 2019" },
     { "name": "Emmanual Rodriguez", "program": "REU", "timeline": "2012-2013" }
@@ -135,7 +164,12 @@
       "linkedin": "https://www.linkedin.com/in/caoyuting/"
     },
     { "name": "Haiqiong Yao", "program": "PhD", "timeline": "2010" },
-    { "name": "Laureano Griffin", "program": "MS", "timeline": "Fall, 2023" },
+    {
+      "name": "Laureano Griffin",
+      "program": "MS",
+      "timeline": "Fall, 2023",
+      "linkedin": "https://www.linkedin.com/in/laureanogriffin"
+    },
     { "name": "Yuting Cao", "program": "MS", "timeline": "2015" },
     { "name": "Hernan Palombo", "program": "MS", "timeline": "2014" },
     { "name": "Yingying Zhang", "program": "MS", "timeline": "2010" },
