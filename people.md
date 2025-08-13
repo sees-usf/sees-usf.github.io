@@ -9,7 +9,7 @@ layout: default
 ### Current Students
 <div class="grid">
 {% for person in site.data.people.students %}
-{% assign thismod = forloop.index | modulo: 5 %}
+{% assign thismod = forloop.index | modulo: 4 %}
 {%- if thismod == 0 -%}
 </div>
 <div class="grid">
