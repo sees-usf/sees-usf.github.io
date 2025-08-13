@@ -15,7 +15,7 @@
   "students": [
     {
       "name": "Bardia Nadimi",
-      "position": "Ph.D. Student",
+      "position": "Ph.D. Student (S21 - )",
       "academia": null,
       "scholar": "https://scholar.google.com/citations?user=kItjfUkAAAAJ&hl=en",
       "orcid": null,
@@ -25,7 +25,7 @@
     },
     {
       "name": "Tasnim Tabassum",
-      "position": "Ph.D. Student",
+      "position": "Ph.D. Student (F25 - )",
       "academia": null,
       "scholar": null,
       "orcid": null,
@@ -35,7 +35,7 @@
     },
     {
       "name": "Jaime Rafael Imperial",
-      "position": "M.S. Student",
+      "position": "M.S. Student (F25 - )",
       "academia": null,
       "scholar": null,
       "orcid": null,
@@ -45,7 +45,7 @@
     },
     {
       "name": "Ghali Omar Boutaib",
-      "position": "B.S. Student",
+      "position": "B.S. Student (F24 - )",
       "academia": null,
       "scholar": "https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en",
       "orcid": "https://orcid.org/0000-0001-6470-9965",
@@ -55,7 +55,7 @@
     }
     {
       "name": "Marwan Abdelwahab",
-      "position": "B.S. Student",
+      "position": "B.S. Student (C25 - )",
       "academia": null,
       "scholar": null,
       "orcid": null,
@@ -66,11 +66,16 @@
   ],
   "previous_reu": [
     {
+      "name": "Cesar Sicaju",
+      "program": "REU",
+      "timeline": "Summer 2025"
+      "linkedin": "https://www.linkedin.com/in/cesar-sicaju-0a815132a/"
+    },
+    {
       "name": "Trudy Kwok",
       "program": "REU",
       "timeline": "Spring/Summer 2024"
-    },
-    {
+    },{
       "name": "Niharika Adari",
       "program": "REU",
       "timeline": "Spring/Summer 2024"
