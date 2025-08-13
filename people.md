@@ -9,6 +9,10 @@ layout: default
 ### Current Students
 <div class="grid">
 {% for person in site.data.people.students %}
+{%- if (forloop.index | modulo: 5) == 0 -%}
+</div>
+<div class="grid">
+{%- endif -%}
 {% include headshot.html img=person.img name=person.name position=person.position academia=person.academia scholar=person.scholar orcid=person.orcid github=person.github linkedin=person.linkedin %}
 {% endfor %}
 </div>
