@@ -52,7 +52,7 @@
       "github": "https://github.com/ghaliomar",
       "linkedin": "https://www.linkedin.com/in/ghaliomar/",
       "img": "/headshots/boutaib.jpeg"
-    }
+    },
     {
       "name": "Marwan Abdelwahab",
       "position": "B.S. Student (C25 - )",
@@ -68,14 +68,15 @@
     {
       "name": "Cesar Sicaju",
       "program": "REU",
-      "timeline": "Summer 2025"
+      "timeline": "Summer 2025",
       "linkedin": "https://www.linkedin.com/in/cesar-sicaju-0a815132a/"
     },
     {
       "name": "Trudy Kwok",
       "program": "REU",
       "timeline": "Spring/Summer 2024"
-    },{
+    },
+    {
       "name": "Niharika Adari",
       "program": "REU",
       "timeline": "Spring/Summer 2024"
