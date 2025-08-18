@@ -23,7 +23,7 @@ Refer to our [research](https://sees-usf.github.io/research) page for on-going a
 
 **To interested graduate students:** We welcome highly motivated students who are committed to excellence in both academics and research to join our lab. When contacting us, please include your research interests and a brief statement explaining why you are interested in joining our group.
 - *Applicants must have strong problem solving capabilits with demonstrated prior independent research experience.*
-- *A solid background in at least two of the following areas is required: **AI/ML/LLMs**, **computer/processor architectures**, **algorithms/programming**, or **hardware design using Verilog/FPGAs**.*
+- *A strong background in at least two of the following areas is required: **AI/ML/LLMs**, **computer/processor architectures**, **algorithms/programming**, or **hardware design using Verilog/FPGAs**.*
 - *Applicatnts with a related M.S. degree will receive priority consideration.*
 
 **To undergraduate students:** Undergraduate students with excellent academic records who are *interested in pursuing graduate studies* are  encouraged to contact us about available research opportunities.  
