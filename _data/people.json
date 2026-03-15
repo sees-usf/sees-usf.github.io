@@ -34,6 +34,16 @@
       "img": "/headshots/person.jpeg"
     },
     {
+      "name": "XiangFei Kong",
+      "position": "Ph.D. Student (S26 - )",
+      "academia": null,
+      "scholar": null,
+      "orcid": null,
+      "github": null,
+      "linkedin": "https://www.linkedin.com/in/xiangfei-kong",
+      "img": "/headshots/person.jpeg"
+    },
+    {
       "name": "Jaime Rafael Imperial",
       "position": "M.S. Student (F25 - )",
       "academia": null,
@@ -44,14 +54,14 @@
       "img": "/headshots/imperial.jpeg"
     },
     {
-      "name": "Ghali Omar Boutaib",
-      "position": "B.S. Student (Su24 - )",
-      "academia": "https://ghaliomar.com/",
-      "scholar": "https://scholar.google.com/citations?user=xunmIsQAAAAJ&hl=en",
-      "orcid": "https://orcid.org/0000-0001-6470-9965",
-      "github": "https://github.com/ghaliomar",
-      "linkedin": "https://www.linkedin.com/in/ghaliomar/",
-      "img": "/headshots/boutaib.jpeg"
+      "name": "Nicholas Kovacs",
+      "position": "M.S. Student (S26 - )",
+      "academia": null,
+      "scholar": null,
+      "orcid": null,
+      "github": "https://github.com/wwoink",
+      "linkedin": "https://www.linkedin.com/in/nicholasikovacs",
+      "img": "/headshots/kovacs.jpeg"
     },
     {
       "name": "Marwan Abdelwahab",
