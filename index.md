@@ -50,4 +50,5 @@ When contacting me about a research opportunity, please include:
 - A current CV/resume
 - Your current academic transcripts
 - A brief statement describing why you are interested in undergraduate research with this lab;
-Please include all of the above materials in your initial inquiry. Inquiries without the required information listed above will generally not be considered.
+
+Please include all of the above materials in your initial inquiry. Inquiries without the required information listed above will generally not be responded.
