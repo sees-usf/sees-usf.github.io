@@ -65,7 +65,7 @@
     },
     {
       "name": "Marwan Abdelwahab",
-      "position": "B.S. Student (C25 - )",
+      "position": "M.S. Student (F26 - )",
       "academia": null,
       "scholar": null,
       "orcid": null,
@@ -73,9 +73,29 @@
       "linkedin": "https://www.linkedin.com/in/marwan-abdelwahab-51204a221/",
       "img": "/headshots/marwan-abdelwahab.jpeg"
     }
+    {
+      "name": "Sazzadul Islam",
+      "position": "M.S. Student (F26 - )",
+      "academia": null,
+      "scholar": null,
+      "orcid": null,
+      "github": null,
+      "linkedin": "https://www.linkedin.com/in/sazzad-sowmik/",
+      "img": "/headshots/sazzardul-islam.jpeg"
+    }
   ],
   "previous_reu": [
      {
+      "name": "Marwan Abdelwahab",
+      "position": "B.S. Student (C25 - C26)",
+      "academia": null,
+      "scholar": null,
+      "orcid": null,
+      "github": null,
+      "linkedin": "https://www.linkedin.com/in/marwan-abdelwahab-51204a221/",
+      "img": "/headshots/marwan-abdelwahab.jpeg"
+    }
+    {
       "name": "Ghali Omar Boutaib",
       "position": "B.S. Student (Su24 - )",
       "academia": "https://ghaliomar.com/",
